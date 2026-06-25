@@ -1,0 +1,9 @@
+tensorflow>=2.16
+keras
+streamlit
+numpy
+opencv-python
+pillow
+matplotlib
+scikit-learn
+jupyter
