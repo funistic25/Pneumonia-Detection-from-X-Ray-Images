@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-import os
 import tensorflow as tf
 from PIL import Image
 
@@ -14,9 +13,7 @@ st.set_page_config(
 )
 
 IMG_SIZE = 100
-
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_PATH = os.path.join(BASE_DIR, "custom_pre_trained_model_10.keras")
+MODEL_PATH = "custom_pre_trained_model_10.keras"   # bare relative path
 CATEGORIES = ["NORMAL", "PNEUMONIA"]
 
 
