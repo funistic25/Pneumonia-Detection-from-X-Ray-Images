@@ -32,7 +32,8 @@ https://pneumonia-detection-from-x-ray-images.onrender.com
 ## 📷 Preview
 
 
- <img width="1390" height="1411" alt="image" src="https://github.com/user-attachments/assets/6b3bd66a-3266-4b24-b335-1a644f13fd49" />
+<img width="1390" height="1411" alt="image" src="https://github.com/user-attachments/assets/bdabdd07-f257-4853-bf89-3c0bd335a989" />
+
 
 
 ------------------------------------------------------------------------
