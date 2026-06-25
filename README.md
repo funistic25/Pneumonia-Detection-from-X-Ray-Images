@@ -95,17 +95,10 @@ Pneumonia-Detection-from-X-Ray-Images/
 
 ## 📊 Model Comparison
 
-  ------------------------------------------------------------------------
-  Model                                       Accuracy Notes
-  ------------------- -------------------------------- -------------------
-  Custom CNN                                 \~70--78% Trained from
-                                                       scratch; varies
-                                                       slightly between
-                                                       runs
-
-  VGG16                                          \~92% Stable transfer
-                                                       learning model
-  ------------------------------------------------------------------------
+| Model | Accuracy | Notes |
+|------|:--------:|------|
+| **Custom CNN** | **70–78%** | Trained from scratch; results vary slightly between runs due to random weight initialization. |
+| **VGG16 (Transfer Learning)** | **92%** | Stable pretrained model with significantly better generalization. |
 
 ------------------------------------------------------------------------
 
@@ -121,35 +114,6 @@ Run the application:
 
 ``` bash
 streamlit run app.py
-```
-
-------------------------------------------------------------------------
-
-## 📷 Screenshots
-
-Add these images inside the **screenshots/** folder:
-
--   homepage.png
--   upload.png
--   prediction_normal.png
--   prediction_pneumonia.png
-
-They will greatly improve the presentation of the repository.
-
-------------------------------------------------------------------------
-
-## 📁 Dataset
-
-The dataset is intentionally excluded because of its size.
-
-Expected structure:
-
-``` text
-dataset/
-└── chest_xray/
-    ├── train/
-    ├── test/
-    └── val/
 ```
 
 ------------------------------------------------------------------------
