@@ -21,6 +21,20 @@ images and obtain predictions with a confidence score.
 > https://github.com/funistic25/Pneumonia-Detection-from-X-Ray-Images
 
 ------------------------------------------------------------------------
+## 🌐 Live Demo
+
+👉 **Live Application**
+
+https://pneumonia-detection-from-x-ray-images.onrender.com
+
+---
+
+## 📷 Preview
+
+<p align="center">
+  <img width="1390" height="1411" alt="image" src="https://github.com/user-attachments/assets/ca466470-f630-499b-8d14-59b190bf8eef" width="900"/>
+</p>
+------------------------------------------------------------------------
 
 ## ✨ Features
 
