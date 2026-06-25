@@ -1,13 +1,8 @@
 # 🫁 Pneumonia Detection from Chest X-Ray Images using CNN and VGG16
 
-```{=html}
 <p align="center">
-```
-**Deep Learning • Computer Vision • TensorFlow • Streamlit**
-
-```{=html}
+  <b>Deep Learning • Computer Vision • TensorFlow • Streamlit</b>
 </p>
-```
 
 ------------------------------------------------------------------------
 
