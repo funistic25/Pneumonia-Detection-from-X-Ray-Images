@@ -83,7 +83,9 @@ Pneumonia-Detection-from-X-Ray-Images/
 ├── .gitignore
 │
 ├── Dataset/
-│   └── Pneumonia_Detection.ipynb
+│   ├── normal
+│   ├── val
+│   └── test
 │
 ├── Models/
 │   ├── custom_pre_trained_model_10.keras
